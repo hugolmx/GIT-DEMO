@@ -1,2 +1,2 @@
 welcome to GIT demo
-you will git and github concepts...
+you will git and github concepts.
